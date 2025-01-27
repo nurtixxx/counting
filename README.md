@@ -35,6 +35,8 @@ Make sure to properly connect the 7-segment display based on its type (Common Ca
 1. Initially, the display shows the digit 0.
 2. When the button is pressed, the displayed digit increments by 1 (cycling through 0 to 9) 🔟.
 3. The display updates to show the current digit, and the cycle repeats 🔄.
+4. [![Video example]](https://youtube.com/shorts/-Idngs3aBI8?si=5LCJDfnoRngLh4yj)
+
 
 ## 📋 Requirements
 
